@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "7sVK8WvIZlwkhg5NYDRMik",
-    "name" : "Project_To_Be_Renamed",
+    "name" : "Empty_Project_Renamed",
     "type" : "Project",
     "metadata" : {
       "modelVersion" : {
@@ -18,7 +18,7 @@
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2025-11-03T09:05:54.188Z",
+  "updateTime" : "2025-11-03T09:05:57.604Z",
   "objectRefs" : [ ],
   "readableFileExtension" : null,
   "readableFilePresent" : false
