@@ -1,0 +1,30 @@
+{
+  "objectInfo" : {
+    "id" : "k38Qr2qeHeClfWjiwlPuiE",
+    "name" : "Versioned Mapping 3",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100TR170000000000QR"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Mapping for testing Edit changes. ",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2025-11-03T09:02:35.191Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : "json",
+  "readableFilePresent" : true
+}
